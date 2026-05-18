@@ -59,7 +59,7 @@ Resilient infrastructure                -  For trailer parks, not just data cent
 **"A Story of Llamas and Hammers: The Future of AI in the Age of Hardware Security"**  
 Presented original research on GPUHammering vulnerabilities, architectural implications, and potential hardware-level mitigations to a professional security audience.
 
-### Community Work
+### 👥 Community Work
 
 **Salvation Army Kroc Center - Teacher Aide & IT Infrastructure**  
 Overhauled the computer lab for an underserved population of Hispanic and Black youth. Secured against physical and digital tampering and cut back on the center's reliance on expensive third-party IT services. Trained faculty in network security protocols. Tutored 20+ K–6 students in digital literacy and foundational math.
@@ -83,11 +83,11 @@ Organized a presentation group to increase enrollment in high school's computer 
 
 Founded the official Cole App Dev (CAD) Club and mentored next year's leaders; organized the club to compete in the **Congressional App Challenge**,  **USACO**, and **UIL Computer Science**.
 
-- **💻 UCF Online Programming Competition** (2025) **9th individually, D1 National Tier** - University of Central Florida's national high school programming competition.
+- **UCF Online Programming Competition 9th individually, D1 National Tier** (2025) - University of Central Florida's national high school programming competition.
 
 - **3rd place in Texas districts, UIL Computer Science** (2026) Competed district-wide and performed among the best in the Computer Science multiple choice section (4th place individual alternate)
 
-- **2nd place in Texas, BoT 3A Computer Science Competition** (2025) Led weekly competitive programming meets and practice tests
+- **2nd place in Texas, BoT 3A Computer Science Competition** (2026) Led weekly competitive programming meets and practice tests
 
 ## Currently
 
