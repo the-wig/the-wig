@@ -102,7 +102,7 @@ My near-term research goal is to contribute to the [SIMS Lab](https://vlsi.rice.
 I'm genuinely excited to talk about hardware security, low-power design, open-source architecture, or what it's like to be a first-generation Cuban-American engineer, figuring out how to build things that help people. Reach out!
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail&logoColor=white)](mailto:lbp1@rice.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/ludwig-p-ba2ba4368)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludwig-p-ba2ba4368)
 
 ---
 
