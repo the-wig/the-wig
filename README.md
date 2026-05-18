@@ -41,23 +41,23 @@ These projects are in active development and will shift as my research matures.
 
 **Methods**
 
-Monte Carlo simulation · Open-source ASIC tools · Formal testbench development (Coctb)
+Monte Carlo simulation · Open-source ASIC tools · Formal testbench development (Cocotb)
 
 ## Research Interests
 
 ```
 Ultra-low-power integrated circuits     -  How do we make hardware that lasts, even without consistent power?
 Hardware security primitives            -  PUFs, side-channel analysis
-TinyML at the edge                      -  *Real* inference cost
+TinyML at the edge                      -  Measuring *real* inference cost
 Open hardware architecture              -  RISC-V, silicon for everyone
-Resilient infrastructure                -  For the stability of our nation as a whole
+Resilient infrastructure                -  For trailer parks, not just data centers
 ```
 
 ## Selected Work
 
 ### 🔬 BSidesSATX 2026 - Technical Presenter
 **"A Story of Llamas and Hammers: The Future of AI in the Age of Hardware Security"**  
-Presented original research presentation on GPUHammering vulnerabilities, architectural implications, and potential hardware-level mitigations to a professional security audience.
+Presented original research on GPUHammering vulnerabilities, architectural implications, and potential hardware-level mitigations to a professional security audience.
 
 ### Community Work
 
@@ -65,7 +65,7 @@ Presented original research presentation on GPUHammering vulnerabilities, archit
 Overhauled the computer lab for an underserved Hispanic and Black youth population. Secured against physical and digital tampering and cut back on the center's reliance on expensive third-party IT services. Trained faculty in network security protocols. Tutored 20+ K–6 students in digital literacy and foundational math.
 
 **Campbell Memorial Library - STEM Mentor**  
-Designed and led hands-on engineering experiments for 50+ K–6 students over 4 weeks, with a focus on students who might not otherwise encounter engineering as a career path they could picture themselves in.
+Designed and led hands-on engineering experiments for 50+ K–6 students, organizing local STEM Day over 4 weeks, with a focus on students who might not otherwise encounter engineering as a career path they could picture themselves in.
 
 **Mercy Chefs, Kerrville - Food Service Volunteer**  
 Prepared and distributed 150+ meals to families affected by flooding.
@@ -79,7 +79,7 @@ Led a team of five with limited prior experience through the *Air Force Associat
 - **Top 5% nationally (individual & team rounds) in NCL** (National Cyber League), competing against college teams
 
 ### 🤖 Computer Science Club - Founder
-Organized a presentation group to increase enrollment in high school's computer science/cyber classes, leading to a projected 100% growth in *Introduction to App Development & Cybersecurity*.
+Organized a presentation group to increase enrollment in high school's computer science/cyber classes.
 
 Founded the official Cole App Dev (CAD) Club and mentored next year's leaders; organized the club to compete in the **Congressional App Challenge**,  **USACO**, and **UIL Computer Science**.
 
