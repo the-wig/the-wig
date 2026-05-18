@@ -62,7 +62,7 @@ Presented original research on GPUHammering vulnerabilities, architectural impli
 ### Community Work
 
 **Salvation Army Kroc Center - Teacher Aide & IT Infrastructure**  
-Overhauled the computer lab for an underserved Hispanic and Black youth population. Secured against physical and digital tampering and cut back on the center's reliance on expensive third-party IT services. Trained faculty in network security protocols. Tutored 20+ K–6 students in digital literacy and foundational math.
+Overhauled the computer lab for an underserved population of Hispanic and Black youth. Secured against physical and digital tampering and cut back on the center's reliance on expensive third-party IT services. Trained faculty in network security protocols. Tutored 20+ K–6 students in digital literacy and foundational math.
 
 **Campbell Memorial Library - STEM Mentor**  
 Designed and led hands-on engineering experiments for 50+ K–6 students, organizing local STEM Day over 4 weeks, with a focus on students who might not otherwise encounter engineering as a career path they could picture themselves in.
@@ -83,11 +83,11 @@ Organized a presentation group to increase enrollment in high school's computer 
 
 Founded the official Cole App Dev (CAD) Club and mentored next year's leaders; organized the club to compete in the **Congressional App Challenge**,  **USACO**, and **UIL Computer Science**.
 
-- **3rd place in Texas districts, UIL Computer Science** (2026) Competed district-wide and performed among the best in the Computer Science multiple choice section (4th place alternate)
+- **💻 UCF Online Programming Competition** (2025) **9th individually, D1 National Tier** - University of Central Florida's national high school programming competition.
+
+- **3rd place in Texas districts, UIL Computer Science** (2026) Competed district-wide and performed among the best in the Computer Science multiple choice section (4th place individual alternate)
 
 - **2nd place in Texas, BoT 3A Computer Science Competition** (2025) Led weekly competitive programming meets and practice tests
-
-- **💻 UCF Online Programming Competition** (2025) **9th individually, D1 National Tier** - University of Central Florida's national high school programming competition.
 
 ## Currently
 
@@ -99,7 +99,7 @@ My near-term research goal is to contribute to the [SIMS Lab](https://vlsi.rice.
 
 ## Contact
 
-I'm genuinely excited to talk about hardware security, low-power design, open-source architecture, or what it's like to be a first-generation Cuban-American engineer, figuring out how to build things that help people. Reach out!
+I'm genuinely excited to talk about hardware security, low-power design, open-source architecture, or what it's like to be a first-generation Cuban-American engineer, and to figure out how to build things that help people. Reach out!
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail&logoColor=white)](mailto:lbp1@rice.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludwig-p-ba2ba4368)
