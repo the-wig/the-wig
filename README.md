@@ -70,25 +70,6 @@ Designed and led hands-on engineering experiments for 50+ K–6 students, organi
 **Mercy Chefs, Kerrville - Food Service Volunteer**  
 Prepared and distributed 150+ meals to families affected by flooding.
 
-### 🛡️ CyberPatriot - Team Captain
-Led a team of five with limited prior experience through the *Air Force Association's* CyberPatriot National Youth Cyber Defense Competition.
-
-- **3rd place in Texas, Gold State Round** (2026)
-- Authored 10+ technical training guides covering Linux hardening, Cisco networking, Windows Server, and vulnerability analysis
-- Shared all resources across three additional teams, including one that used our materials to qualify for the Gold Semi-Finals
-- **Top 5% nationally (individual & team rounds) in NCL** (National Cyber League), competing against college teams
-
-### 🤖 Computer Science Club - Founder
-Organized a presentation group to increase enrollment in high school's computer science/cyber classes.
-
-Founded the official Cole App Dev (CAD) Club and mentored next year's leaders; organized the club to compete in the **Congressional App Challenge**,  **USACO**, and **UIL Computer Science**.
-
-- **UCF Online Programming Competition 9th individually, D1 National Tier** (2025) - University of Central Florida's national high school programming competition.
-
-- **3rd place in Texas districts, UIL Computer Science** (2026) Competed district-wide and performed among the best in the Computer Science multiple choice section (4th place individual alternate)
-
-- **2nd place in Texas, BoT 3A Computer Science Competition** (2026) Led weekly competitive programming meets and practice tests
-
 ## Currently
 
 🎓 **Incoming ECE freshman, Rice University** - Class of 2030  
