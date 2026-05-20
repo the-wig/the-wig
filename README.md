@@ -1,4 +1,4 @@
-# Hey! I'm Ludwig. 🇨🇺 + 🇺🇸
+# Hey! I'm Ludwig 🇨🇺 🇺🇸
 **Electrical & Computer Engineering, Energy & Water Sustainability @ Rice University** 🦉
 
 I grew up moving between military bases and spending summers with my grandparents on the Isle of Youth in Cuba, where the lights would go out. *Apagón.* That word, and the frustration behind it, is why I care about power-efficient hardware, open architecture, and building systems that hold up for communities without institutional backup.
