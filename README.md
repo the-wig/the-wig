@@ -9,10 +9,10 @@ For me, the most important engineering question is *"Who is this for, and what h
 
 My research interests lie in **ultra-low-power hardware**, **hardware security**, and **resilient embedded systems**, with a specific focus on applications that matter in low-resource contexts.
 
-**Currently building:**
-- A causal IIR lead compensator that corrects the electrochemical sensor's diffusion lag in real time, enabling accurate CO reconstruction from noisy discrete samples without future data. Physical hardware implementation is the next step after simulation validation.
-- A Ring Oscillator PUF implementation in Verilog with uniqueness, reliability, and uniformity analysis, exploring hardware authentication primitives relevant to edge security
-- An Edge ML power profiling framework measuring real inference cost across microcontrollers using hardware current sensing
+### Currently building:
+- **A causal IIR lead compensator.** Correcting electrochemical sensor diffusion lag in real time. Enables accurate CO reconstruction from noisy discrete samples without future data (physical implementation next after simulation is finalized).
+- **A Ring Oscillator PUF.** Exploring hardware authentication primitives for edge security, featuring uniqueness, reliability, and uniformity analysis.
+- **Edge ML Power Profiler.** Measuring real inference cost across microcontrollers using hardware current sensing.
 
 These projects are in active development and will shift as my research matures.
 
