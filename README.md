@@ -16,9 +16,6 @@ My research interests lie in **ultra-low-power hardware**, **hardware security**
 
 These projects are in active development and will shift as my research matures.
 
-**Previously built:**
-- A complete Linux distribution from scratch via [Beyond Linux From Scratch](https://www.linuxfromscratch.org/blfs/), compiled with custom GCC toolchains and optimized for embedded deployment. Musl libc, hardened networking stack, ~50MB RAM footprint for core processes.
-
 ## Tech Stack
 
 **Languages**
