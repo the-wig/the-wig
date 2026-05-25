@@ -11,7 +11,6 @@ My research interests lie in **ultra-low-power hardware**, **hardware security**
 
 ### Currently building:
 - **A causal IIR lead compensator.** Correcting electrochemical sensor diffusion lag in real time. Enables accurate CO reconstruction from noisy discrete samples without future data (physical implementation next after simulation is finalized).
-- **A Ring Oscillator PUF.** Exploring hardware authentication primitives for edge security, featuring uniqueness, reliability, and uniformity analysis.
 
 These projects are in active development and will shift as my research matures.
 
